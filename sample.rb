@@ -1,5 +1,5 @@
 def hello
-  p "こんち"
+  p "ちわす"
 end
 
 hello
